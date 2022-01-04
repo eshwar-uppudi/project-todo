@@ -1,0 +1,30 @@
+ul#ul1-id li{
+
+    background-color:brown;
+    margin: 10px;
+    color:white;
+    list-style: none;
+
+}
+ul#ul1-id li button{
+    color: rgb(252, 13, 13);
+    background-color: black;
+    float: right;
+    height: 24px;
+    border-color: brown;
+}
+
+ul#ul2-id li{
+    background-color:green;
+    margin: 10px;
+    color:white;
+    list-style: none;
+ 
+}
+ul#ul2-id li button{
+    color: rgb(252, 13, 13);
+    background-color: black;
+    float: right;
+    height: 24px;
+    border-color: green;
+}
